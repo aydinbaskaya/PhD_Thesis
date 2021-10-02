@@ -1,2 +1,0 @@
-DENEME dosyası
-visibility test
