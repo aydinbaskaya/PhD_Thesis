@@ -1,5 +1,9 @@
 ### 27 Haziran - 3 Temmuz
 
 - [ ] Mendeley kütüphane düzenleme
+
 - [ ] Makale/dergi okuma
-- [ ] TİK form teslim işleri
+
+- [x] TİK form teslim işleri
+
+   :arrow_right: DR-5 formu teslim edildi.
