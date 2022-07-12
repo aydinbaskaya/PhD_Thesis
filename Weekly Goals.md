@@ -28,8 +28,17 @@
 
 ### 4 - 10 Temmuz 
 
+- [x] Mendeley kütüphane düzenleme devam.
+
+  :arrow_right: Düzenleme devam ediyor.
+
+- [x] Makale/dergi okuma (seçili makaleler okumaya başla)
+
+​		:arrow_right: Okumaya başlandı.
+
+
+
+### 11 - 24 Temmuz 
+
 - [ ] Mendeley kütüphane düzenleme devam.
-- [ ] Makale/dergi okuma (seçili makaleler okumaya başla)
-
-
-
+- [ ] Makale/dergi okuma
